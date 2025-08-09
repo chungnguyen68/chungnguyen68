@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <!-- Profile Header -->
-<p align="center"> Hi 👋, I'm Nguyen Hoang Chung</h1>
+<p align="center"> 
+  Hi 👋, I'm Nguyen Hoang Chung</h1>
 <img src="https://raw.githubusercontent.com/chungnguyen68/chungnguyen68/main/Nguyen%20Hoang%20Chung.jpg" alt="Nguyen Hoang Chung Banner" width="20%" />
 </p>
 <h3 align="center">Associate Professor & Ph.D. in Finance and Banking | Lecturer & Researcher in Economics, Finance, and Banking</h3>
