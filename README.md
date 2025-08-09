@@ -1,7 +1,7 @@
 ## Hi there, I'm Nguyen Hoang Chung 👋
 
 <!-- Profile Header -->
-<p align="center"> 
+<p align="left"> 
   
 <img src="https://raw.githubusercontent.com/chungnguyen68/chungnguyen68/main/Nguyen%20Hoang%20Chung.jpg" alt="Nguyen Hoang Chung Banner" width="20%" />
 </p>
