@@ -1,16 +1,79 @@
 ## Hi there 👋
 
-<!--
-**chungnguyen68/chungnguyen68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Nguyen Hoang Chung</h1>
+<h3 align="center">Associate Professor & Ph.D. in Finance and Banking | Lecturer & Researcher in Economics, Finance, and Banking</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="followers" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Profession / Role
+- **Associate Professor** in Economics, Finance, and Banking
+- Lecturer at **Ho Chi Minh City University of Banking**  
+- Former **Banking Officer** at Vietcombank (2012–2016)
+
+---
+
+## 🛠 Top Skills / Technologies
+- **Banking Operations**, **Investment Project Appraisal**, **Corporate Finance & Financial Investment**
+- **Monetary Policy Analysis**, **Risk Management in Banking**, **FinTech Applications**
+- **Data Analysis with Python**, **Econometric Modeling (BVAR, DSGE, SVAR)**
+
+---
+
+## 🌟 Favorite Projects / Repos
+- 📘 *Monetary Policy under Uncertainty in Vietnam’s Banking System* – Monograph, NEU Publishing, 2024  
+- 📄 Research on **Uncertainty and Bank Funding Liquidity Risk** in Emerging Markets  
+- 📊 Studies on **CO₂ Emissions, Economic Growth, and Institutional Impacts** in Emerging Economies  
+
+---
+
+## 📚 Learning Goals
+- Advancing **Machine Learning** in financial risk modeling  
+- Exploring **Financial Technology (FinTech)** and **Management Information Systems**  
+- Driving **digital transformation** in finance and banking education
+
+---
+
+## 🔗 Social Links
+<p>
+  <a href="mailto:chungnh@hub.edu.vn"><img src="https://img.shields.io/badge/Email-chungnh%40hub.edu.vn-red" /></a>
+  <a href="https://scholar.google.com/citations?user=ayqU1ZkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" /></a>
+</p>
+
+---
+
+## 🏆 Awards & Achievements
+- **Award for Science and Technology for Young Lecturers** – Ministry of Education and Training, 2024  
+- Multiple **Certificates of Outstanding Scientific Research** (2020–2024)  
+
+---
+
+## 🎯 Fun Fact / Hobby
+I enjoy **reading, football**, and applying **data analytics** to solve real-world banking problems.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="top langs" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <em>"Transforming finance & banking education through research, technology, and innovation."</em>
+</p>
