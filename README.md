@@ -5,7 +5,7 @@
   
 <img src="https://raw.githubusercontent.com/chungnguyen68/chungnguyen68/main/Nguyen%20Hoang%20Chung.jpg" alt="Nguyen Hoang Chung Banner" width="20%" />
 </p>
-👋, I'm a Lecturer, researcher </h1>
+
 <h3 align="center">Associate Professor & Ph.D. in Finance and Banking | Lecturer & Researcher in Economics, Finance, and Banking</h3>
 
 <p align="center">
