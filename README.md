@@ -2,6 +2,8 @@
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nguyen Hoang Chung</h1>
+<img src="assets/banner.png" alt="Nguyen Hoang Chung Banner" />
+</p>
 <h3 align="center">Associate Professor & Ph.D. in Finance and Banking | Lecturer & Researcher in Economics, Finance, and Banking</h3>
 
 <p align="center">
