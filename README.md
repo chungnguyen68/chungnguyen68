@@ -5,8 +5,8 @@
 <h3 align="center">Associate Professor & Ph.D. in Finance and Banking | Lecturer & Researcher in Economics, Finance, and Banking</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=chungnguyen68&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/chungnguyen68?tab=followers"><img src="https://img.shields.io/github/followers/chungnguyen68?label=Followers&style=social" alt="followers" /></a>
 </p>
 
 ---
@@ -60,15 +60,15 @@ I enjoy **reading, football**, and applying **data analytics** to solve real-wor
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chungnguyen68&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chungnguyen68&layout=compact&theme=radical" alt="top langs" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chungnguyen68&theme=radical" alt="streak" />
 </p>
 
 ---
