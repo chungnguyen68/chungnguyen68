@@ -36,7 +36,11 @@
 
   ### 🔗 Tech Links
 <p>
-  <a href="https://rpubs.com/chungnguyen68"><img src="https://img.shields.io/badge/R%20pubs-orange" /></a>
+  <a href="https://rpubs.com/chungnguyen68"><img src="https://img.shields.io/badge/R%20pubs-Link-orange" /></a>
+</p>
+
+<p>
+  <a href="https://reader1990.blogspot.com/"><img src="https://img.shields.io/badge/Blog%20@reader-Link-yellow" /></a>
 </p>
 ---
 
@@ -52,6 +56,10 @@
   <a href="mailto:chungnh@hub.edu.vn"><img src="https://img.shields.io/badge/Email-chungnh%40hub.edu.vn-red" /></a>
   <a href="https://scholar.google.com/citations?user=bU_R0JgAAAAJ&hl=vi"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" /></a>
 </p>
+
+<a href="www.youtube.com/@chungnguyenhoang6822"><img src="https://img.shields.io/badge/YouTube%20$%20Chung%20nguyen%20hoang-Channel-red" /></a>
+</p>
+
 
 ---
 
