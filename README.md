@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chungnguyen68&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://scholar.google.com/citations?user=bU_R0JgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" /></a>
+  <a href="https://github.com/chungnguyen68?tab=followers"><img src="https://img.shields.io/github/followers/chungnguyen68?label=Followers&style=social" alt="followers" /></a>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🔗 Social Links
 <p>
   <a href="mailto:chungnh@hub.edu.vn"><img src="https://img.shields.io/badge/Email-chungnh%40hub.edu.vn-red" /></a>
-  <a href="https://scholar.google.com/citations?user=ayqU1ZkAAAAJ&hl=en](https://scholar.google.com/citations?user=bU_R0JgAAAAJ&hl=vi"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue](https://scholar.google.com/citations?user=bU_R0JgAAAAJ&hl=vi" /></a>
+  <a href="https://scholar.google.com/citations?user=bU_R0JgAAAAJ&hl=vi"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" /></a>
 </p>
 
 ---
