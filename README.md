@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chungnguyen68&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/chungnguyen68?tab=followers"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" /></a>
+  <a href="https://scholar.google.com/citations?user=bU_R0JgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" /></a>
 </p>
 
 ---
