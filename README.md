@@ -34,6 +34,10 @@
 - 📄 Research on **Uncertainty and Bank Funding Liquidity Risk** in Emerging Markets  
 - 📊 Studies on **CO₂ Emissions, Economic Growth, and Institutional Impacts** in Emerging Economies  
 
+  ### 🔗 Tech Links
+<p>
+  <a href="https://rpubs.com/chungnguyen68"><img src="https://img.shields.io/badge/R%20pubs-orange" /></a>
+</p>
 ---
 
 ## 📚 Learning Goals
