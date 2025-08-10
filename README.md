@@ -46,7 +46,7 @@
 ## 🔗 Social Links
 <p>
   <a href="mailto:chungnh@hub.edu.vn"><img src="https://img.shields.io/badge/Email-chungnh%40hub.edu.vn-red" /></a>
-  <a href="https://scholar.google.com/citations?user=ayqU1ZkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" /></a>
+  <a href="https://scholar.google.com/citations?user=ayqU1ZkAAAAJ&hl=en"><img src="[https://img.shields.io/badge/Google%20Scholar-Profile-blue](https://scholar.google.com/citations?user=bU_R0JgAAAAJ&hl=vi)" /></a>
 </p>
 
 ---
