@@ -57,7 +57,7 @@
   <a href="https://scholar.google.com/citations?user=bU_R0JgAAAAJ&hl=vi"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" /></a>
 </p>
 
-<a href="www.youtube.com/@chungnguyenhoang6822"><img src="https://img.shields.io/badge/YouTube%20$%20Chung%20nguyen%20hoang-Channel-red" /></a>
+<a href="https://www.youtube.com/@nguyenhoangchung68"><img src="https://img.shields.io/badge/YouTube%20$%20Nguyen%20Hoang%20Chung-Channel-red" /></a>
 </p>
 
 
