@@ -19,8 +19,9 @@
 - **Associate Professor** in Economics, Finance, and Banking
 - Lecturer at **Ho Chi Minh City University of Banking**
   
-## Professional experience in banking and finance prior to May 2025 
-- Lecturer at **Thu Dau Mot University**    
+## 💼 Professional experience in banking and finance prior to May 2025 
+- Lecturer at **Thu Dau Mot University**
+- Lecturer at **Binh Duong University of Economics and Technology**    
 - Former **Banking Officer** at Vietcombank (2012–2016)
 
 ---
